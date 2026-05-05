@@ -25,6 +25,8 @@ Program ini juga dilengkapi dengan method:
 
 # Output Program
 Output yang dihasilkan sesuai dengan panduan, yaitu menampilkan isi stack, tiket terakhir, tiket yang dibatalkan, serta total transaksi
+<img width="1919" height="1079" alt="Output TiketBioskop" src="https://github.com/user-attachments/assets/ee992483-b434-41ae-95f9-e82929143807" />
+
 
 # Catatan 
 Program ini dibuat tanpa menggunakan struktur data bawaan Java seperti Stack atau ArrayList, melainkan menggunakan array secara manual sesuai dengan ketentuan tugas.
