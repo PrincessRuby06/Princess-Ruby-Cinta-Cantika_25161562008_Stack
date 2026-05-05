@@ -1,7 +1,9 @@
 # TUGAS STRUKTUR DATA - IMPLEMENTASI STACK
 
 Nama: Princess Ruby Cinta Cantika
+
 NPM: 25161562008
+
 Kelas: 2A-Informatika
 
 # Deskripsi Program
